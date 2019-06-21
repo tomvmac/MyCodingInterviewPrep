@@ -8,6 +8,9 @@ For simplicity sake, all examples have been written in javascript.  Therefore ru
 Key Resources:
 1. leetcode
 2. www.codewars.com
+3. Cracking the coding interview book
+4. www.interviewcake.com
+5. https://www.algoexpert.io
 
 
 Tutorials:
